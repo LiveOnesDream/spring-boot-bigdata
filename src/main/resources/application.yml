@@ -1,0 +1,7 @@
+server:
+  port: 8080
+spark:
+  appName: springbootSpark
+  master: local[2]
+  nodes: wbbigdata00
+  port: 9200
